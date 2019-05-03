@@ -1,3 +1,3 @@
 # Phase0-Hacktiv8
 
-Pengumpulan Tugas pada Week 1 di Hacktiv8
+Pengumpulan Tugas Phase 0 Week 1 Hacktiv8
